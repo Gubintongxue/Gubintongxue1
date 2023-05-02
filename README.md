@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Gubin, a student in Nanjing University of Posts and Telecommunications  🚀</div>  
   
 
-- 🔭 I’m currently working on [家里蹲](https://github.com/rishavanand/github-profilinator)  
+- 🔭 My second year in graduate school [家里蹲](https://github.com/Gubintongxue/github-profilinator)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning C++ and Linux  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to me and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I'm looking for work ！ 
   
 
 <br/>  
