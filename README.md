@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Gubin, a student in Nanjing University of Posts and Telecommunications  🚀</div>  
   
 
-- 🔭 My second year in graduate school [家里蹲](https://github.com/Gubintongxue/github-profilinator)  
+- 🔭 My second year in graduate school [南京](https://github.com/Gubintongxue/github-profilinator)  
   
 
 - 🌱 I’m currently learning C++ and Linux  
